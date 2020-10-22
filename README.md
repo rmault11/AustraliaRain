@@ -1,4 +1,4 @@
-# Forecasting Australia Rain R
+# Forecasting Australia Rain in R
 Forecasting Rain in Australia using Machine Learning
 Used 10 years of daily weather observations from numerous Australia weather stations to analyze rainfall.
 Developed K-Nearest Neighbor classifiers and a Regularized Logistic Regression (Lasso) model to predict
